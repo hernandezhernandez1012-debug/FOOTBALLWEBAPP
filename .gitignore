@@ -1,0 +1,15 @@
+# Ejecutables y archivos generados
+Programs/
+*.exe
+*.dbg
+*.log
+*.lock
+
+# Configuración local y conexiones
+Data/
+*.ini
+*.ws
+
+# Archivos temporales
+*.tmp
+*.bak
